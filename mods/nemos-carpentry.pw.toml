@@ -1,0 +1,13 @@
+name = "Nemo's Carpentry"
+filename = "nemos-carpentry-2.5.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUTkDmEv/versions/xkj8TtZC/nemos-carpentry-2.5.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "66983300819aa06ae6a385a14242a41541baaf93"
+
+[update]
+[update.modrinth]
+mod-id = "xUTkDmEv"
+version = "xkj8TtZC"

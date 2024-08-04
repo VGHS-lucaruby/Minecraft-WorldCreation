@@ -1,0 +1,13 @@
+name = "Create: Applied Energistics 2"
+filename = "Create AE2 Datapack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wNukWjYj/versions/SotgQaOe/Create%20AE2%20Datapack.zip"
+hash-format = "sha1"
+hash = "cf2b95c96778c7f0458b666bd6d113aa36453f98"
+
+[update]
+[update.modrinth]
+mod-id = "wNukWjYj"
+version = "SotgQaOe"
