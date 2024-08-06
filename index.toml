@@ -1,16 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "9a1f2df5cede13414c04d8e5e90f0096993c62f37fd2f5808d0707cfaf47bc88"
-
-[[files]]
 file = "config/tectonic.json"
 hash = "07b0a932a91d03df079388b7a98c7c8fc96f76c09dd8f6180a6d96be2902610e"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
+metafile = true
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
 metafile = true
 
 [[files]]
@@ -61,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/automatic-potato.pw.toml"
 hash = "879cdc85d24c2dd7c0e68e4c796bf975b0763eb230604c0196e020ac8b2ace14"
+metafile = true
+
+[[files]]
+file = "mods/azusaconfig.pw.toml"
+hash = "a32236f5a3047d76555758d0b8b7697c239d77c7fcfd51ef6e1a6acf934734e6"
 metafile = true
 
 [[files]]
@@ -264,11 +270,6 @@ hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
@@ -324,6 +325,31 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "c34d7228915013f3946f0943079644a44f653b9a378d129d733db249a790bed0"
 metafile = true
@@ -341,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
@@ -539,6 +570,11 @@ hash = "f6939dfffd06e01959bb07d1a4896333dacf08b7d284761acacd4d436a581bcf"
 metafile = true
 
 [[files]]
+file = "mods/modmenu-badges-lib.pw.toml"
+hash = "a2729d4374e2aaae8d11aa87e403a29f34de561f63ee38bbf6348c9115d3d46c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -641,21 +677,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/rei-collapsible-entries.pw.toml"
-hash = "630cb17ea4316427433060348cf859dea3c0a597ed637b27319a9ec35edeea37"
-metafile = true
-
-[[files]]
-file = "mods/rei-enchantment-info.pw.toml"
-hash = "6acc8f41483d16e0325fac6f182dfb7f87825c5899c107322d4ba0bafc7b8994"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
 metafile = true
 
 [[files]]
