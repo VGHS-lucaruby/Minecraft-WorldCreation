@@ -1,13 +1,13 @@
 name = "AzusaConfig"
-filename = "AzusaConfig-fabric-0.1.1+mc1.20.1.jar"
+filename = "AzusaConfig-fabric-0.1.3+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/12LahGY4/versions/Mob6MnIN/AzusaConfig-fabric-0.1.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/12LahGY4/versions/I1x1hhPj/AzusaConfig-fabric-0.1.3%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "60cdc2ac6e28b1175e412d5f6d2178e519c70958"
+hash = "09760d7054b4516671cf268344fc3e97717b6f55"
 
 [update]
 [update.modrinth]
 mod-id = "12LahGY4"
-version = "Mob6MnIN"
+version = "I1x1hhPj"

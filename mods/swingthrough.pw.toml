@@ -1,13 +1,13 @@
 name = "SwingThrough"
-filename = "swingthrough-1.0.4+1.19.jar"
+filename = "swingthrough-1.0.5+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JyKlunuD/versions/ydQSuWFf/swingthrough-1.0.4%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/JyKlunuD/versions/GD5dgRZO/swingthrough-1.0.5%2B1.20.jar"
 hash-format = "sha1"
-hash = "78450af45450534d372e06a72f9d0e633d4051f6"
+hash = "fb6a27105eac3edcfc7c925fe894291e31695ef2"
 
 [update]
 [update.modrinth]
 mod-id = "JyKlunuD"
-version = "ydQSuWFf"
+version = "GD5dgRZO"

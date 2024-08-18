@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/azusaconfig.pw.toml"
-hash = "a32236f5a3047d76555758d0b8b7697c239d77c7fcfd51ef6e1a6acf934734e6"
+hash = "a7d8702649487c6057f9e92d0a0378a7c3436c62894bb73ebb1939309014f7da"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "89d7f1597acb08c364ac7d36a528cd7317f98e2bad5ccedfa54192a57246b8bb"
+hash = "765b8610aa5698a8ff45cc270516388e4882ce0d8db34eafd7c2c2a7cd8577a4"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
+hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "f89b7426d74fe444b023318ecc16bedd657d5caab6637638cd86651c514eab61"
+hash = "0156b943c770427937ab085163dfd25e027f1413d80edfff98e9125bf2ef02a3"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "4ae07407c40ca8af4eca5af029ed0bc3cf52c31342a6d164523d6e4c350e6ad9"
+hash = "3448fc32106cb97efb4da88e5ea44056ec62d4e5b172a2f71696dab0ca2ccbe8"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f6939dfffd06e01959bb07d1a4896333dacf08b7d284761acacd4d436a581bcf"
+hash = "45fc3490e6f0111e19aea024fc028e509d5f0d7a0d1cf9789a86f2c48766d30a"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
+hash = "dc0ac3e0a3d1823aa30387953d4151bc155adb087fe4a86b5a550dcde7ce39dc"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4e5a15b5039e9b476304ce0060fbee73bcde68ef94d8fd090716f7567313d49f"
+hash = "8e4b3b322b7449fea266434a4da845dd201aa1798774867fc4028c89d7928e47"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
+hash = "ccda4cdaed25c6a22bcae377dd15e321eea7c94996364527dd142b6303a1d417"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/swingthrough.pw.toml"
-hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
+hash = "abc6c26c011e7b853de626c59636ef9952bb68201f722bd400de0a6c3b79dd21"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "14dc763c30fe223d30def02df68758c59c3062b630d4440c74ad75e5dbb15e90"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
 
 [[files]]
@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+hash = "86e8fdd0f89d9c0f320dd7197d2943d9beeb4cecc928334f9926cc0305242314"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
+hash = "fe23980d96cf347e5c51b2c9b6e190a7a349135f54ba3de7a56632c24d63bd46"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "World Creation"
 author = "lucaruby"
-version = "2.0.0-RC8"
+version = "2.0.0-RC9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "af8f37b6072b0bbb1dcf9b3f988f7dcaaeb486c0effa107cb89f8071a048d662"
+hash = "8459152836e39ca7d93b748feb6cfc3b5bde8d074bd9836ca7ff3b3d38cbad63"
 
 [versions]
 fabric = "0.16.0"
