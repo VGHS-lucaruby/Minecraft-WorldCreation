@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
+hash = "4bb621237a31c54f51c37d9a0660d176336a89888a931b294ee95d9c1a90856a"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
+hash = "e85e0354f28b9748671d50ae373a53f21b396a5a57be5e4428fdaf089aa2d3c1"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-metalwork.pw.toml"
-hash = "590818ff4010f70b44a9a742e1b52eb8daf2e84a04b8e8f918b1a23319144b34"
+hash = "2d2cdd40c043f428f19bd3b309a840136f810eb1669139bb1cb78ca2599c252f"
 metafile = true
 
 [[files]]
@@ -351,12 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c34d7228915013f3946f0943079644a44f653b9a378d129d733db249a790bed0"
+hash = "c6f63f5f20e88ecaab69d566de67c59b2b94e66d11b46709b3e3d1bfa5793b2d"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
+hash = "49f07f3858a71d7247b27e77179ff5c3c044163886c0bee823590cd603147e5b"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
+hash = "f838d1d448db7bbed7c5c4c1ad56c863a5393acf2943a818f1d15b16e18cad5f"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdar.pw.toml"
-hash = "3ee260e8f7c8121582e7f0ab06c1790ab06ecefce745b4070b7678713d31fba4"
+hash = "7d7e090d58d1a239738459f9abad39362a663d4d5e57214aed690d2cfd27f10b"
 metafile = true
 
 [[files]]
@@ -617,11 +617,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
 hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
-metafile = true
-
-[[files]]
-file = "mods/night-auto-config.pw.toml"
-hash = "926d74b901c84022a77b6a1f640fe27904e0865c4f73a9cb7157588233efebea"
 metafile = true
 
 [[files]]
@@ -746,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/swingthrough.pw.toml"
-hash = "abc6c26c011e7b853de626c59636ef9952bb68201f722bd400de0a6c3b79dd21"
+hash = "7fdfc826f000e59d53276a4db0619b2e478d9afccb871c8881d687af7952ad18"
 metafile = true
 
 [[files]]
@@ -841,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0f4ef7f885023affb079835bd249833668daf7fbedd0d2e833cce23ff4d35fc6"
+hash = "251d52308f57cfcb6c36367ef71b66e853bfd641b5e0d84982e6b095c52d1bc3"
 
 [[files]]
 file = "resourcepacks/create_applied_energistics-2.pw.toml"
