@@ -5,6 +5,10 @@ file = "config/tectonic.json"
 hash = "07b0a932a91d03df079388b7a98c7c8fc96f76c09dd8f6180a6d96be2902610e"
 
 [[files]]
+file = "config/textile_backup.json5"
+hash = "562191ef34bfb2bcaa95cb6042ca6a1d54d35da86582cbf26a7a8869fb249135"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
@@ -227,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
+metafile = true
+
+[[files]]
+file = "mods/create-lagless.pw.toml"
+hash = "0b2d0fd0d308cd246db33c81d47c89bf25c351087731e40f5e7638d1eb930f44"
 metafile = true
 
 [[files]]
@@ -520,6 +529,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
@@ -695,6 +709,11 @@ hash = "6d24776287ac46585ab1c7f451c67d90b1b477f61237a57218f22378dbae7ad7"
 metafile = true
 
 [[files]]
+file = "mods/skip-backup-screen.pw.toml"
+hash = "e40ab47a18621558b0337ba5034d1282ec286d1eb75be990054b7b65ecc92d79"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
@@ -762,6 +781,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]

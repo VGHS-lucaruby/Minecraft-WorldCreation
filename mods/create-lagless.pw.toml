@@ -1,0 +1,13 @@
+name = "Create: Lagless"
+filename = "createlagless-0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/INyJ1SKF/versions/WtYypGNj/createlagless-0.2.jar"
+hash-format = "sha1"
+hash = "d6afc10c4fdffe95d49741c265a0b0faa9fa2462"
+
+[update]
+[update.modrinth]
+mod-id = "INyJ1SKF"
+version = "WtYypGNj"
