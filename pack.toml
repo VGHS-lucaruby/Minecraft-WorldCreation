@@ -1,6 +1,6 @@
 name = "World Creation"
 author = "lucaruby"
-version = "2.0.0-RC12"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
