@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/servertick.pw.toml"
-hash = "6d24776287ac46585ab1c7f451c67d90b1b477f61237a57218f22378dbae7ad7"
+hash = "7a0980be1e30100c31a5a943591fb9b4cd9b65d8a562435f6ff059f3749075f8"
 metafile = true
 
 [[files]]

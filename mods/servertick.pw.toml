@@ -1,6 +1,6 @@
 name = "Server Tick"
 filename = "servertick-mc1.20-1.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nEKRNLz9/versions/IOYJbkmQ/servertick-mc1.20-1.8.jar"
