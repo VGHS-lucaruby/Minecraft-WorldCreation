@@ -149,11 +149,6 @@ hash = "c04484b7186077d8f951c8c0e8ae14dfdc1a32da994a1265f26ec748496853b9"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "31d0eb6401336daf300ae28feb62b45de68c9deaad0dc8be7335a80d99bf6ee5"
-metafile = true
-
-[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
