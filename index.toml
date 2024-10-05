@@ -13,6 +13,10 @@ file = "config/logcleaner.json"
 hash = "9c9871554ac252458b6fc6746554320bc33e931ba29e103d142d25ef6cf85897"
 
 [[files]]
+file = "config/mcde.json5"
+hash = "c78eb955e01003b94611605b3b2ee7612f8a825515735e8da5d8845b2fd45fc7"
+
+[[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "c0aec5cac8a6a6baaa5565c132c876f4fbdb47010e596781efbcd5dcc1c85d0c"
 
