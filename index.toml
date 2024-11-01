@@ -18,7 +18,7 @@ hash = "c78eb955e01003b94611605b3b2ee7612f8a825515735e8da5d8845b2fd45fc7"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "c0aec5cac8a6a6baaa5565c132c876f4fbdb47010e596781efbcd5dcc1c85d0c"
+hash = "3659127a9da91325a022a323fad12c143f9f73d2a0ac19c03a302e6de482c5c6"
 
 [[files]]
 file = "config/sodium-options.json"
